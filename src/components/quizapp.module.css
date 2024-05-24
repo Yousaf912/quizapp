@@ -1,0 +1,27 @@
+.maindiv{
+   
+    background: rgba(65, 90, 143, 0.9);
+    border-radius:15px ;
+    padding: 15px;
+    margin-top: 30px;
+    color: white;
+}
+button{
+    border: none;
+    outline: none;
+    background: rgba(241, 235, 235, 0.952);
+}
+button:hover{
+    background-color: #3e64d1;
+}
+
+.qinpt{
+    width: 100%;
+    border: none;
+    outline: none;
+    background: rgba(241, 235, 235, 0.952);
+    border-radius: 10px;
+}
+.radi{
+    border-radius: 8px;
+}
